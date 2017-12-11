@@ -28,6 +28,7 @@ a home page for the works of Tony Dingman
 
 ### Links of Interest
 
+* PDFs on GitHub: <https://github.com/tony-dingman/tony-dingman.github.io>
 * <https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/>
 * <http://bancroft.berkeley.edu/collections/Shig_Murao/SR_4.html>
 * <https://jackmicheline.outlawpoetry.com/2010/09/09/poem-from-a-letter-to-tony-dingman-october-19-1990/>
