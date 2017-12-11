@@ -15,15 +15,16 @@ a home page for the works of Tony Dingman
 * 'Nothing to Report' and other no-sense efforts
 
 
-### [Three for the Seesaw]( tony-ding-three-for-the seesaw.pdf )
+## [Three for the Seesaw]( tony-ding-three-for-the seesaw.pdf )
 
 * A one and only three page book
 
 
-### [Mad Scheme of the Day]( tony-ding-mad-scheme-of the day.pdf )
+## [Mad Scheme of the Day]( tony-ding-mad-scheme-of the day.pdf )
 
-* with Theo at Zeotrope. 27 May 2017
+* With Theo at Zeotrope. 27 May 2017
 
+***
 
 ### Links of Interest
 
