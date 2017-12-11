@@ -5,7 +5,7 @@ a home page for the works of Tony Dingman
 
 ![2004-tony-dingman-by-frank-lobdell ]( 2004-tony-dingman-by-frank-lobdell.png )
 
-## [The Night Befor Thinking]
+## [The Night Before Thinking]( tony-ding-the-night-before-thinking.pdf )
 
 * A book of poems published in 2014, introduction by Jack Hirschman
 
@@ -20,7 +20,7 @@ a home page for the works of Tony Dingman
 * A one and only three page book
 
 
-### [Mad Scheme of the Day]( )
+### [Mad Scheme of the Day]( tony-ding-mad-scheme-of the day.pdf )
 
 * with Theo at Zeotrope. 27 May 2017
 
