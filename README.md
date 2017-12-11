@@ -1,11 +1,28 @@
-# tony-dingman.github.io
+# [tony-dingman.github.io]( https://tony-dingman.github.io/ )
 
 
-a home page for the works of Tony Dignman
+a home page for the works of Tony Dingman
+
+![2004-tony-dingman-by-frank-lobdell ]( 2004-tony-dingman-by-frank-lobdell.png )
+
+## [The Night Befor Thinking]
+
+* A book of poems published in 2014, introduction by Jack Hirschman
 
 
 ## [The Book of No]( tony-ding-the-book-of-no.pdf )
 
+* 'Nothing to Report' and other no-sense efforts
+
+
+### [Three for the Seesaw]( tony-ding-three-for-the seesaw.pdf )
+
+* A one and only three page book
+
+
+### [Mad Scheme of the Day]( )
+
+* with Theo at Zeotrope. 27 May 2017
 
 
 ### Links of Interest
