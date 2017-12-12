@@ -24,6 +24,7 @@ a home page for the works of Tony Dingman
 
 * With Theo at Zeotrope. 27 May 2017
 
+
 ***
 
 ### Links of Interest
@@ -38,6 +39,12 @@ a home page for the works of Tony Dingman
 * <https://www.pressreader.com/usa/san-francisco-chronicle/20160501/284386968471661>
 * <http://www.imdb.com/name/nm0227666/?ref_=nmbio_bio_nm>
 * <http://www.imdb.com/name/nm0227666/bio?ref_=nm_ov_bio_sm>
+
+#### Tony as a pre-cursor to broetry
+
+* <https://www.npr.org/2011/07/24/137788995/yo-bro-belly-up-to-the-bar-and-recite-broetry>
+* <https://www.buzzfeed.com/ryanmac/why-are-these-posts-taking-over-your-linkedin-feed-because>
+
 
 
 ### Copyright and License
