@@ -32,7 +32,7 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 ### Links of Interest
 
 * PDFs on GitHub: <https://github.com/tony-dingman/tony-dingman.github.io>
-* [At 75, Gino & Carlo in North Beach a bar for the ages]( *https://www.sfchronicle.com/style/article/At-75-Gino-Carlo-in-North-Beach-a-bar-for-the-12485088.php )
+* [At 75, Gino & Carlo in North Beach a bar for the ages]( https://www.sfchronicle.com/style/article/At-75-Gino-Carlo-in-North-Beach-a-bar-for-the-12485088.php )
 * <https://www.pressreader.com/usa/san-francisco-chronicle/20171210/281711204989255>
 * <https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/>
 * <http://bancroft.berkeley.edu/collections/Shig_Murao/SR_4.html>
