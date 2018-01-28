@@ -32,8 +32,9 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 ### Links of Interest
 
 * PDFs on GitHub: <https://github.com/tony-dingman/tony-dingman.github.io>
-* [At 75, Gino & Carlo in North Beach a bar for the ages]( https://www.sfchronicle.com/style/article/At-75-Gino-Carlo-in-North-Beach-a-bar-for-the-12485088.php )
-* <https://www.pressreader.com/usa/san-francisco-chronicle/20171210/281711204989255>
+* Jan 9, 2018: [At 75, Gino & Carlo in North Beach a bar for the ages]( https://www.sfchronicle.com/style/article/At-75-Gino-Carlo-in-North-Beach-a-bar-for-the-12485088.php )
+* Dec 10, 2017: <https://www.pressreader.com/usa/san-francisco-chronicle/20171210/281711204989255>
+* April 28, 2016: [Buzz is building for SFMOMA reopening]( http://www.sfchronicle.com/style/article/Buzz-is-building-for-SFMOMA-reopening-7382459.php )
 * <https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/>
 * <http://bancroft.berkeley.edu/collections/Shig_Murao/SR_4.html>
 * <https://jackmicheline.outlawpoetry.com/2010/09/09/poem-from-a-letter-to-tony-dingman-october-19-1990/>
