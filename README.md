@@ -5,6 +5,8 @@ a home page for the works of Tony Dingman
 
 ![2004-tony-dingman-by-frank-lobdell ]( 2004-tony-dingman-by-frank-lobdell.png )
 
+_Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
+
 ## [The Night Before Thinking]( tony-ding-the-night-before-thinking.pdf )
 
 * A book of poems published in 2014, introduction by Jack Hirschman
@@ -30,6 +32,8 @@ a home page for the works of Tony Dingman
 ### Links of Interest
 
 * PDFs on GitHub: <https://github.com/tony-dingman/tony-dingman.github.io>
+* [At 75, Gino & Carlo in North Beach a bar for the ages]( *https://www.sfchronicle.com/style/article/At-75-Gino-Carlo-in-North-Beach-a-bar-for-the-12485088.php )
+* <https://www.pressreader.com/usa/san-francisco-chronicle/20171210/281711204989255>
 * <https://openspace.sfmoma.org/2013/01/receipt-of-delivery29/>
 * <http://bancroft.berkeley.edu/collections/Shig_Murao/SR_4.html>
 * <https://jackmicheline.outlawpoetry.com/2010/09/09/poem-from-a-letter-to-tony-dingman-october-19-1990/>
@@ -49,6 +53,6 @@ a home page for the works of Tony Dingman
 
 ### Copyright and License
 
-Copyright &copy; 2017 Tony Dingman
+Copyright &copy; 2018 Tony Dingman
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
