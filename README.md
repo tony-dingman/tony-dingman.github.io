@@ -1,7 +1,7 @@
 # [tony-dingman.github.io]( https://tony-dingman.github.io/ )
 
 
-a home page for the works of Tony Dingman
+a home page for the poems of Tony Dingman
 
 ![2004-tony-dingman-by-frank-lobdell ]( 2004-tony-dingman-by-frank-lobdell.png )
 
