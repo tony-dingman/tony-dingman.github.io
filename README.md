@@ -8,8 +8,9 @@ a home page for the works of Tony Dingman
 _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ## _[Tenderhooks]( tony-dingman-2002-tenderhooks.pdf )_
-![ tony-dingman-2002-tenderhooks-cover](tony-dingman-2002-tenderhooks-cover.png =200x300)
-* A book of poems by Tony Dingman
+![](tony-dingman-2002-tenderhooks-cover.png =200x300)
+* A book of poems by Tony Dingman dedicated to Jack and Agneta Hirschman
+* Cover by Diane Roby
 * ISBN-13: 9781930903098
 * ISBN-10: 193090309X
 *
@@ -17,7 +18,7 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ## _[The Night Before Thinking]( tony-dingman-2014-the-night-before-thinking.pdf )_
 
-* A book of poems by Tony Digman
+* A book of poems by Tony Dingman
 * Introduction by Jack Hirschman
 * ISBN 1-930903-79-0
 * ISBN 978-1-930903-79-1
