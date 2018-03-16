@@ -7,9 +7,19 @@ a home page for the works of Tony Dingman
 
 _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
+## [Tenderhooks]( tony-dingman-2002-tenderhooks )
+* A book of poems
+* Published in 2014 by CC Marimbo, PO Box 933. Berkeley CA 94701
+* ISBN-13: 9781930903098
+* ISBN-10: 193090309X
+* $7.95
+
 ## [The Night Before Thinking]( tony-ding-the-night-before-thinking.pdf )
 
-* A book of poems published in 2014, introduction by Jack Hirschman
+* A book of poems published in 2014 by CC Marimbo
+* Introduction by Jack Hirschman
+* ISBN 1-930903-09-X
+* $7.95
 
 
 ## [The Book of No]( tony-ding-the-book-of-no.pdf )
@@ -24,7 +34,11 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ## [Mad Scheme of the Day]( tony-ding-mad-scheme-of-the-day.pdf )
 
-* With Theo at Zeotrope. 27 May 2017
+* With Theo at Zoetrope. 27 May 2017
+
+## [And Theo]( tony-dingman-2018-02-07-and-theo.pdf )
+
+* With Theo at Zoetrope. 07 February 2018
 
 
 ***
