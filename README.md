@@ -13,7 +13,7 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 * Cover by Diane Roby
 * ISBN-13: 9781930903098
 * ISBN-10: 193090309X
-*
+* Published in 2002 by CC Marimbo, PO Box 933. Berkeley CA 94701
 * $7.95
 
 ## _[The Night Before Thinking]( tony-dingman-2014-the-night-before-thinking.pdf )_
