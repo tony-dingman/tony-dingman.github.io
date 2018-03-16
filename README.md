@@ -8,6 +8,7 @@ a home page for the works of Tony Dingman
 _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ## _[Tenderhooks]( tony-dingman-2002-tenderhooks.pdf )_
+![ tony-dingman-2002-tenderhooks-cover]( tony-dingman-2002-tenderhooks-cover.png )
 * A book of poems by Tony Dingman
 * ISBN-13: 9781930903098
 * ISBN-10: 193090309X
