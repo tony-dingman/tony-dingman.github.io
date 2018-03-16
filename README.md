@@ -9,7 +9,7 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ## _[Tenderhooks]( tony-dingman-2002-tenderhooks.pdf )_
 
-<img src=tony-dingman-2002-tenderhooks-cover.png style="width:200px;" >
+![]( tony-dingman-2002-tenderhooks-cover-small.png )
 
 * A book of poems by Tony Dingman dedicated to Jack and Agneta Hirschman
 * Cover by Diane Roby
