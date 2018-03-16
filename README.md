@@ -11,8 +11,9 @@ _Cover illustration for_ The Night Before Thinking _by Frank Lobdell 2014_
 
 ![]( tony-dingman-2002-tenderhooks-cover-small.png )
 
+_Cover by Diane Roby_
+
 * A book of poems by Tony Dingman dedicated to Jack and Agneta Hirschman
-* Cover by Diane Roby
 * ISBN-13: 9781930903098
 * ISBN-10: 193090309X
 * Published in 2002 by CC Marimbo, PO Box 933. Berkeley CA 94701
